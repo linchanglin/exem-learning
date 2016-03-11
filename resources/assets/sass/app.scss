@@ -1,0 +1,99 @@
+// @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+.navbar {
+  background: #f4726d;
+}
+
+.container {
+  width: 990px;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #fff;
+}
+
+p {
+  margin: 12.5px;
+}
+
+img {
+  width: 60px;
+  height: 40px;
+  margin: -10px;
+}
+
+a.active {
+  background: #4dabff;
+}
+
+.btn-normal {
+  height: 35px;
+  margin: 7.5px 0;
+  line-height: 20px;
+}
+
+.dropdown, .dropup {
+  position: relative;
+  margin:7.5px;
+}
+
+.navbar-form {
+  padding: 0 ;
+}
+
+th {
+  text-align: center;
+}
+
+
+.btn-group, .btn-group-vertical {
+  margin-left: 15px;
+}
+
+
+.input-group[class*=col-] {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.checkbox label, .radio label {
+  margin-left: 15px;
+  margin-top: 7px;
+}
+
+.btn-q {
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.navbar-static-bottom {
+  margin-bottom: 0px;
+  margin-top: 80px;
+  border-bottom-width: 0px;
+}
+
+.leftpanel {
+  background: #fff;
+  width: 220px;
+  position: fixed;
+}
+
+.mainpanel {
+  margin-left: 220px;
+  padding: 20px;
+  background: #d8dce3;
+}
+
+.contentpanel {
+  background: #fff;
+}
+
+.content {
+  padding: 40px;
+}
+
+.contentpanel {
+  margin-bottom: 20px;
+}
